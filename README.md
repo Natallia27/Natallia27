@@ -4,17 +4,17 @@
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1LP_RmND_gmT36EHhp8Rdd1T2BWxarQzr/view?usp=share_link)
 
-Languages and Tools
+### Language and Tools
 
-![Header](https://img.shields.io/badge/Jira-00B6F1?style=for-the-badge&logo=jira&logoColor=136b1)
-![Header](https://img.shields.io/badge/AzureDevops-00B6F1?style=for-the-badge&logo=azuredevops&logoColor=0074d0)
-![Header](https://img.shields.io/badge/Postman-00B6F1?style=for-the-badge&logo=postman&logoColor=f76935)
-![Header](https://img.shields.io/badge/MySQL-00B6F1?style=for-the-badge&logo=mysql&logoColor=00618a)
-![Header](https://img.shields.io/badge/Github-00B6F1?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/DevTools-00B6F1?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
-![Header](https://img.shields.io/badge/AndroidStudio-00B6F1?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
-![Header](https://img.shields.io/badge/Fiddler-00B6F1?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/CharlesProxy-00B6F1?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Jira-4aa5f8?style=for-the-badge&logo=jira&logoColor=136b1)
+![Header](https://img.shields.io/badge/AzureDevops-4aa5f8?style=for-the-badge&logo=azuredevops&logoColor=0074d0)
+![Header](https://img.shields.io/badge/Postman-4aa5f8?style=for-the-badge&logo=postman&logoColor=f76935)
+![Header](https://img.shields.io/badge/MySQL-4aa5f8?style=for-the-badge&logo=mysql&logoColor=00618a)
+![Header](https://img.shields.io/badge/Github-4aa5f8?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/DevTools-4aa5f8?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Header](https://img.shields.io/badge/AndroidStudio-4aa5f8?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+![Header](https://img.shields.io/badge/Fiddler-4aa5f8?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/CharlesProxy-4aa5f8?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
 ### Testing Documentation
 
@@ -24,4 +24,6 @@ Languages and Tools
 - [SQL Queries](https://github.com/Natallia27/SQL)
 - [Postman Collections](https://github.com/Natallia27/postman)
 
-Follow me
+### Follow Me
+
+[![Header](https://img.shields.io/badge/Linkedin-4aa5f8?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)
