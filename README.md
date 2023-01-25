@@ -19,8 +19,8 @@
 ### Testing Artefacts
 
 - [Checklists](https://github.com/Natallia27/Checklists)
-- [Test-Suites and Test-Cases](https://github.com/Natallia27/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
+- [Test-Suites and Test-Cases](https://github.com/Natallia27/Test_Suites_Cases)
+- [Bug-Reports](https://github.com/Natallia27/Bug_Reports)
 - [SQL Queries](https://github.com/Natallia27/SQL)
 - [Postman Collections](https://github.com/Natallia27/postman)
 
