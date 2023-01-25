@@ -16,7 +16,7 @@
 ![Header](https://img.shields.io/badge/Fiddler-4aa5f8?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-4aa5f8?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
-### Testing Artefacts
+### Testing Artifacts
 
 - [Checklists](https://github.com/Natallia27/Checklists)
 - [Test-Suites and Test-Cases](https://github.com/Natallia27/Test_Suites_Cases)
