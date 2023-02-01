@@ -23,8 +23,8 @@
 - [Bug-Reports](https://github.com/Natallia27/Bug_Reports)
 - [SQL Queries](https://github.com/Natallia27/SQL)
 - [Postman Collections](https://github.com/Natallia27/Postman)
-- [Postman Collections](https://github.com/Natallia27/Bash)
-- 
+- [Bash](https://github.com/Natallia27/Bash)
+
 ### Follow Me
 
 [![Header](https://img.shields.io/badge/Linkedin-4aa5f8?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/natallia-viarenich)
