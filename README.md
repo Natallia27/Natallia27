@@ -23,7 +23,7 @@
 - [Bug-Reports](https://github.com/Natallia27/Bug_Reports)
 - [SQL Queries](https://github.com/Natallia27/SQL)
 - [Postman Collections](https://github.com/Natallia27/Postman)
-- [Bash](https://github.com/Natallia27/Bash)
+- [Bash-commands](https://github.com/Natallia27/Bash-commands)
 
 ### Follow Me
 
