@@ -32,4 +32,4 @@
 
 ### Follow Me
 
-[![Header](https://img.shields.io/badge/Linkedin-4aa5f8?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/natallia-viarenich)
+[![Header](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/natallia-viarenich)
