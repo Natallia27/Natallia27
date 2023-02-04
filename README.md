@@ -6,7 +6,7 @@
 
 ### Language and Tools
 
-![Header](https://img.shields.io/badge/Jira-4aa5f8?style=for-the-badge&logo=jira&logoColor=13b1)
+![Header](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=13b1)
 ![Header](https://img.shields.io/badge/AzureDevops-4aa5f8?style=for-the-badge&logo=azuredevops&logoColor=0074d0)
 ![Header](https://img.shields.io/badge/Trello-4aa5f8?style=for-the-badge&logo=trello&logoColor=0074d0)
 ![Header](https://img.shields.io/badge/YouTrack-4aa5f8?style=for-the-badge&logo=youtrack&logoColor=0074d0)
