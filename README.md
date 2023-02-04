@@ -8,6 +8,7 @@
 
 ![Header](https://img.shields.io/badge/Jira-4aa5f8?style=for-the-badge&logo=jira&logoColor=13b1)
 ![Header](https://img.shields.io/badge/AzureDevops-4aa5f8?style=for-the-badge&logo=azuredevops&logoColor=0074d0)
+![Header](https://img.shields.io/badge/Trello-4aa5f8?style=for-the-badge&logo=trello&logoColor=0074d0)
 ![Header](https://img.shields.io/badge/Postman-4aa5f8?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/SQL-4aa5f8?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/Github-4aa5f8?style=for-the-badge&logo=github&logoColor=8cc4d7)
