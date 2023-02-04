@@ -19,7 +19,7 @@
 ![Header](https://img.shields.io/badge/AndroidStudio-000000?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Fiddler-000000?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-000000?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/VM-VirtualBox-000000?style=for-the-badge&logo=virtualbox&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/VMVirtualBox-000000?style=for-the-badge&logo=virtualbox&logoColor=8cc4d7)
 
 ### Testing Artifacts
 
