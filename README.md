@@ -14,7 +14,6 @@
 ![Header](https://img.shields.io/badge/Postman-4aa5f8?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/SQL-4aa5f8?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/Github-4aa5f8?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/Bash-4aa5f8?style=for-the-badge&logo=bash&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/DevTools-4aa5f8?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-4aa5f8?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Fiddler-4aa5f8?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
