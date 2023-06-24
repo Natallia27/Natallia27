@@ -1,4 +1,4 @@
-[![Header](https://github.com/Natallia27/Natallia27/blob/main/assets/1.png)](https://www.linkedin.com/in/natallia-viarenich/)
+[![Header](https://github.com/Natallia27/Natallia27/blob/main/1.png)](https://www.linkedin.com/in/natallia-viarenich/)
 
 ## I'm a QA Engineer. 
 
