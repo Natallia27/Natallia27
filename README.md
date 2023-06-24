@@ -20,7 +20,7 @@
 ![Header](https://img.shields.io/badge/Fiddler-000000?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-000000?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/VirtualBox-000000?style=for-the-badge&logo=virtualbox&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=virtualbox&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=8cc4d7)
 
 ### Testing Artifacts
 
