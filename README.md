@@ -30,6 +30,7 @@
 - [SQL Queries](https://github.com/Natallia27/SQL)
 - [Postman Collections](https://github.com/Natallia27/Postman)
 - [Bash-commands](https://github.com/Natallia27/Bash-commands)
+- [Selenium](https://github.com/Natallia27/Selenium)
 
 ### Follow Me
 
