@@ -31,6 +31,7 @@
 - [Postman Collections](https://github.com/Natallia27/Postman)
 - [Bash-commands](https://github.com/Natallia27/Bash-commands)
 - [Selenium](https://github.com/Natallia27/Selenium)
+- [Automation Testing (Project 'Flower shop')](https://github.com/Natallia27/Automation Testing (Project 'Flower shop'))
 
 ### Follow Me
 
