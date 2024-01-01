@@ -35,6 +35,8 @@
   
   [Testing Flower Shop mp4](https://drive.google.com/file/d/1dlRdSHFSHAEkgzKsBGJKuBB9ACvkIqwM/view?usp=drive_link)
 
+- [Smoke-test-otodom](https://github.com/Natallia27/Smoke_test_otodom)
+
 ### Follow Me
 
 [![Header](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/natallia-viarenich)
